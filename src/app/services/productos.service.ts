@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Poroducto } from '../interfaces/producto.iterface';
-import { resolve } from 'path';
+
 
 @Injectable({
   providedIn: 'root'
